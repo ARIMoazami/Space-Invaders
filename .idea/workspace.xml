@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SpaceInvadersSFML" targetName="SpaceInvadersSFML" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10a00c3e-5f1f-4c0d-9fb5-0eda29694252" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
+  </component>
+  <component name="ProjectId" id="1onGUzeTrptS0N2oWIEbpwXgn0Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../breakout-2020-mooseman48" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpaceInvadersSFML" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SpaceInvadersSFML" TARGET_NAME="SpaceInvadersSFML" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SpaceInvadersSFML" RUN_TARGET_NAME="SpaceInvadersSFML">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10a00c3e-5f1f-4c0d-9fb5-0eda29694252" name="Default Changelist" comment="" />
+      <created>1613914960475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613914960475</updated>
+      <workItem from="1613914961582" duration="6036000" />
+      <workItem from="1614166534605" duration="3892000" />
+      <workItem from="1614437671517" duration="469000" />
+      <workItem from="1614514008901" duration="3835000" />
+      <workItem from="1614781283470" duration="599000" />
+      <workItem from="1614789986840" duration="600000" />
+      <workItem from="1614939685969" duration="9723000" />
+      <workItem from="1615287366233" duration="630000" />
+      <workItem from="1615296689385" duration="6352000" />
+      <workItem from="1615321263243" duration="669000" />
+      <workItem from="1615379077929" duration="6621000" />
+      <workItem from="1615550346154" duration="12590000" />
+      <workItem from="1615597447464" duration="40000" />
+      <workItem from="1615729773344" duration="11604000" />
+      <workItem from="1615819622035" duration="16049000" />
+      <workItem from="1615892871864" duration="13444000" />
+      <workItem from="1615916593733" duration="1331000" />
+      <workItem from="1615936948251" duration="2920000" />
+      <workItem from="1616001129704" duration="5002000" />
+      <workItem from="1616022148574" duration="775000" />
+      <workItem from="1616083591380" duration="1325000" />
+      <workItem from="1616164162545" duration="64000" />
+      <workItem from="1616164610878" duration="2207000" />
+      <workItem from="1617107991283" duration="3153000" />
+      <workItem from="1618405343854" duration="189000" />
+      <workItem from="1618492207617" duration="2487000" />
+      <workItem from="1618568781789" duration="26000" />
+      <workItem from="1618928069827" duration="601000" />
+      <workItem from="1619006556669" duration="918000" />
+      <workItem from="1619187551888" duration="37000" />
+      <workItem from="1619525172260" duration="725000" />
+      <workItem from="1619561335177" duration="327000" />
+      <workItem from="1619613482091" duration="2567000" />
+      <workItem from="1619624721524" duration="878000" />
+      <workItem from="1619630141157" duration="605000" />
+      <workItem from="1619640331237" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1619640389185">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="283" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1617108024907" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1616164225304" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-392.-1080.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1619640389185" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-392.-1080.1536.824/-1920.0.1920.1040@0.0.1920.1040" timestamp="1619187586626" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom" timestamp="1619625883818">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1616094940128" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040/-392.-1080.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1619625883818" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center" timestamp="1619625883818">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1616094940128" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center/0.0.1920.1040/-392.-1080.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1619625883818" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left" timestamp="1619625883818">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1616094940128" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left/0.0.1920.1040/-392.-1080.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1619625883818" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right" timestamp="1619625883818">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1616094940128" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right/0.0.1920.1040/-392.-1080.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1619625883818" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1615913577701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1615913577701" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1615913577701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1615913577701" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1615913577701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1615913577701" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1615913577701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1615913577701" />
+  </component>
+</project>
